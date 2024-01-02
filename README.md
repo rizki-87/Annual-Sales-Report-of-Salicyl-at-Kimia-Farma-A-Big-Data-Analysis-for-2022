@@ -17,6 +17,6 @@ The project is divided into several key stages:
 
 **Technologies Used**
 
-Python & Google Colab: For initial data processing and transformation.
-PostgreSQL & DBeaver: For database creation and management.
-Google Data Studio: For data visualization and dashboard creation.
+- Python & Google Colab: For initial data processing and transformation.
+- PostgreSQL & DBeaver: For database creation and management.
+- Google Data Studio: For data visualization and dashboard creation.
